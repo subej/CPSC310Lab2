@@ -79,5 +79,4 @@ public class User implements IUser {
 		((List<ProductItem>) data.get(SHOPPINGCART)).add(o);
 	}
 
-	
 }
